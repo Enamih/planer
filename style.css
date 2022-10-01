@@ -1,0 +1,77 @@
+body{
+    background-color: aquamarine;
+    background-image: url(img/background.jpg);
+    background-size: 100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-repeat: no-repeat;
+}
+
+h1{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    font-size: 100px;
+    color: #39703d;
+}
+
+table, th, td{
+    border: 2px solid #39703d;
+    margin: auto;
+}
+table tr th{
+    border: solid 2px #39703d;
+    text-align: center;
+}
+tr{
+    width: 12%;
+}
+#posao{
+    width: 40%;
+    text-align: center;
+    background-color: transparent;
+}
+
+/*satnica 8-16h*/
+#posao1, #posao3, #posao5, #posao7, #posao9, #posao113, #posao115, #posao117, #posao119, #posao121, #posao123, #posao125{
+    width: 33%;
+    text-align: center;
+    background-color: transparent;
+}
+/*posao firma/kuca*/
+#posao2, #posao4, #posao6, #posao8, #posao10, #posao114, #posao116, #posao118, #posao120, #posao122{
+    width: 65%;
+    text-align: center;
+    background-color: transparent;
+}
+
+/*satnica 12h*/
+#posao15, #posao18, #posao21, #posao24, #posao27, #posao30, #posao33, #posao36, #posao39, #posao42, #posao45, #posao48, #posao51, #posao54, #posao57, #posao60, #posao63, #posao66, #posao69, #posao72, #posao75, #posao78, #posao81, #posao84, #posao87, #posao90, #posao93, #posao96{
+    width: 22%;
+    text-align: center;
+    background-color: transparent;
+}
+
+/*izbor cb*/
+#posao16, #posao19, #posao22, #posao25, #posao28, #posao31, #posao34, #posao37, #posao40, #posao43, #posao46, #posao49, #posao52, #posao55, #posao58, #posao61, #posao64, #posao67, #posao70, #posao73, #posao76, #posao79, #posao82, #posao85, #posao88, #posao91, #posao94, #posao97{
+    width: 52%;
+    text-align: center;
+    background-color: transparent;
+}
+
+#posao17, #posao20, #posao23, #posao26, #posao29, #posao32, #posao35, #posao38, #posao41, #posao44, #posao47, #posao50, #posao53, #posao56, #posao59, #posao62, #posao65, #posao68, #posao71, #posao74, #posao77, #posao80, #posao83, #posao86, #posao89, #posao92, #posao95, #posao98{
+    width: 18%;
+    text-align: center;
+    background-color: transparent;
+}
+
+/*nocenje*/
+#posao99, #posao100, #posao101, #posao102, #posao103, #posao104, #posao105,#posao106,#posao107,#posao108,#posao109,#posao110,#posao111,#posao112 {
+    width: 49%;
+    text-align: center;
+    background-color: transparent;
+}
+
+#datum113, #datum114, #datum115, #datum116, #datum117, #datum118, #datum119, #datum120, #datum121, #datum122, #datum123, #datum124, #datum125, #datum126 {
+    width: 20%;
+    text-align: center;
+    background-color: transparent;
+}
